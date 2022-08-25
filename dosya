@@ -1,0 +1,24 @@
+total 88
+drwxrwxrwt 20 root root 4096 Nis 27 21:40 .
+drwxr-xr-x 20 root root 4096 Nis  1 20:40 ..
+-rw-------  1 hp   hp      0 Nis 27 21:33 config-err-scCD9z
+drwxrwxrwt  2 root root 4096 Nis 27 21:32 .font-unix
+drwxrwxrwt  2 root root 4096 Nis 27 21:33 .ICE-unix
+drwx------  3 root root 4096 Nis 27 21:33 snap.snap-store
+drwx------  2 hp   hp   4096 Nis 27 21:33 ssh-a1OIaxdF1QWY
+drwx------  3 root root 4096 Nis 27 21:32 systemd-private-5431dca3628a442480020d44a94179f0-colord.service-95rUMf
+drwx------  3 root root 4096 Nis 27 21:33 systemd-private-5431dca3628a442480020d44a94179f0-fwupd.service-1pL3eg
+drwx------  3 root root 4096 Nis 27 21:32 systemd-private-5431dca3628a442480020d44a94179f0-ModemManager.service-2w2zTe
+drwx------  3 root root 4096 Nis 27 21:32 systemd-private-5431dca3628a442480020d44a94179f0-switcheroo-control.service-kypH4i
+drwx------  3 root root 4096 Nis 27 21:32 systemd-private-5431dca3628a442480020d44a94179f0-systemd-logind.service-Is7Z5i
+drwx------  3 root root 4096 Nis 27 21:32 systemd-private-5431dca3628a442480020d44a94179f0-systemd-resolved.service-KxRHvj
+drwx------  3 root root 4096 Nis 27 21:32 systemd-private-5431dca3628a442480020d44a94179f0-systemd-timesyncd.service-A2RvLi
+drwx------  3 root root 4096 Nis 27 21:32 systemd-private-5431dca3628a442480020d44a94179f0-upower.service-TdBj6h
+drwxrwxrwt  2 root root 4096 Nis 27 21:32 .Test-unix
+drwx------  2 hp   hp   4096 Nis 27 21:40 tracker-extract-files.1000
+drwx------  2 gdm  gdm  4096 Nis 27 21:32 tracker-extract-files.125
+drwxrwxrwt  2 root root 4096 Nis 27 21:32 VMwareDnD
+-r--r--r--  1 gdm  gdm    11 Nis 27 21:32 .X1024-lock
+-r--r--r--  1 gdm  gdm    11 Nis 27 21:32 .X1025-lock
+drwxrwxrwt  2 root root 4096 Nis 27 21:33 .X11-unix
+drwxrwxrwt  2 root root 4096 Nis 27 21:32 .XIM-unix
